@@ -111,13 +111,6 @@ Login
 
 También se cuenta con una parte de persistencia encargada de la conexión con la base de datos.
 
-Por ejemplo:
-
-```text
-persistencia
-└── conexion_BdD
-```
-
 Y clases DAO para realizar las operaciones relacionadas con los datos.
 
 ---
